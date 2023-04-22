@@ -10,9 +10,6 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-# Skybox is ignored due to its size
-/[Aa]ssets/RealStarsSkybox/
-
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
