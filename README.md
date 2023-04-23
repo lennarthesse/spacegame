@@ -8,6 +8,8 @@ This is the documentation of my space exploration game. Here you can find everyt
 
 [x] Boosters
 
+[ ] Booster Fuel Gauge
+
 [ ] Try-Catch for missing thrusters
 
 [ ] Grade & Radial Holds

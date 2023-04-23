@@ -110,6 +110,8 @@ public class Spacecraft : MonoBehaviour
                 rcs11.Thrust();
             }
         }
+
+        UpdateIMU();
     }
 
     void Update() {
@@ -152,8 +154,6 @@ public class Spacecraft : MonoBehaviour
                 booster.SetThrottle(throttleSlider.value);
             }
         }
-
-        UpdateIMU();
     }
 
     void UpdateIMU() {
